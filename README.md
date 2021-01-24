@@ -1,4 +1,4 @@
-Part of the Covid19 Data Serve project.
+Part of the **Covid19 Data Serve** project.
 
 The project has three phases :
 
